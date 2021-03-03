@@ -15,5 +15,8 @@
       "client": "client/main.js",
       "server": "server/main.js"
     }
+  },
+  "svelte:compiler": {
+    "extensions": ["svelte", "html"]
   }
 }
